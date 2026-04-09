@@ -1,4 +1,4 @@
-# Emotion Detection Application
+# Emotion Detector Project
 
 This project is a web-based emotion detector built with Python, Flask, and Watson NLP.
 
