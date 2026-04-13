@@ -1,6 +1,6 @@
 # Emotion Detector Project
 
-This project is a web-based emotion detector built with Python, Flask, and Watson NLP.
+This final project is a web-based emotion detector built with Python, Flask, and Watson NLP.
 
 ## Features
 - Detects anger, disgust, fear, joy, and sadness
